@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\obj\Debug\Iremotes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\obj\Debug\Iremotes.csproj.CopyComplete
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\obj\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\RemoteIn\obj\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\obj\Debug\Iremotes.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\obj\Debug\Iremotes.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\obj\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\RemoteIn\obj\Debug\RemoteIn.pdb

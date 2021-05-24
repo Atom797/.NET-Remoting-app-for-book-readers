@@ -1,0 +1,98 @@
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.Form1.resources
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Study\CourseWorkRemoting\Client\bin\Debug\Client.exe
+D:\Study\CourseWorkRemoting\Client\bin\Debug\Client.pdb
+D:\Study\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.dll
+D:\Study\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe
+D:\Study\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.dll
+D:\Study\CourseWorkRemoting\Client\bin\Debug\RemoteIn.pdb
+D:\Study\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe.config
+D:\Study\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.xml
+D:\Study\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.xml
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.exe
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.pdb
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.RegistrationForm.resources
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.MyAccaunt.resources
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.NewNote.resources
+D:\Study\CourseWorkRemoting\Client\bin\Debug\MyLibrary.dll
+D:\Study\CourseWorkRemoting\Client\bin\Debug\MyLibrary.pdb
+D:\Study\CourseWorkRemoting\Client\obj\Debug\Client.OtherNotes.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\MyLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\MyLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Input.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Home.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.NewNote.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.OtherNotes.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Registration.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Personal.resources
+C:\Users\Admin\Desktop\Новая папка (5)\CourseWorkRemoting\Client\obj\Debug\Client.Unread.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Input.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Home.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Registration.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Unread.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.PersonalForm.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.NewBook.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\obj\Debug\Client.Read.resources
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\MyLibrary.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Client\bin\Debug\MyLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\MyLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\MyLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Input.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Home.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.PersonalForm.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.NewBook.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Read.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Registration.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.Unread.resources
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Client\obj\Debug\Client.pdb

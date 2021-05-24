@@ -1,0 +1,46 @@
+D:\Study\CourseWorkRemoting\Server\bin\Debug\Server.exe
+D:\Study\CourseWorkRemoting\Server\bin\Debug\Server.pdb
+D:\Study\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.dll
+D:\Study\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.dll
+D:\Study\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe
+D:\Study\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.xml
+D:\Study\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.xml
+D:\Study\CourseWorkRemoting\Server\bin\Debug\RemoteIn.pdb
+D:\Study\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe.config
+D:\Study\CourseWorkRemoting\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Study\CourseWorkRemoting\Server\obj\Debug\Server.exe
+D:\Study\CourseWorkRemoting\Server\obj\Debug\Server.pdb
+D:\Study\CourseWorkRemoting\Server\bin\Debug\MyLibrary.dll
+D:\Study\CourseWorkRemoting\Server\bin\Debug\MyLibrary.pdb
+D:\Study\CourseWorkRemoting\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\MyLibrary.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\MyLibrary.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\CourseWorkRemoting\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\MyLibrary.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\MyLibrary.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\RemoteIn.pdb
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\bin\Debug\RemoteIn.exe.config
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Новая папка (2)\CourseWorkRemoting\Server\obj\Debug\Server.pdb
